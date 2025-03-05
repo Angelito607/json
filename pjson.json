@@ -1,0 +1,51 @@
+{
+    "ciudad": "Morelia",
+    "fecha": "2025-03-05",
+    "noticias": [
+      {
+        "titulo": "Espectacular migración de mariposas monarca alcanza su punto máximo",
+        "descripcion": "Millones de mariposas monarca se han reunido en los bosques de México, ofreciendo un espectáculo natural impresionante y vital para el ecosistema.",
+        "categoria": "Naturaleza",
+        "fecha_publicacion": "2025-03-04",
+        "enlace": "https://www.natureworld.com/migracion-mariposas-monarca",
+        "etiquetas": ["Mariposas", "Migración", "Ecosistema"],
+        "comentarios": [
+          {
+            "usuario": "EcoLover99",
+            "comentario": "¡Qué belleza! Deberíamos hacer más para proteger su hábitat.",
+            "fecha": "2025-03-04"
+          },
+          {
+            "usuario": "NatureFan23",
+            "comentario": "Es increíble cómo la naturaleza nos regala estos momentos mágicos.",
+            "fecha": "2025-03-04"
+          }
+        ]
+      },
+      {
+        "titulo": "Descubren una nueva especie de orquídea en la Amazonía",
+        "descripcion": "Investigadores han identificado una especie nunca antes vista de orquídea, resaltando la importancia de la conservación de la biodiversidad.",
+        "categoria": "Ciencia",
+        "fecha_publicacion": "2025-03-03",
+        "enlace": "https://www.natureworld.com/nueva-especie-orquidea",
+        "etiquetas": ["Amazonía", "Orquídeas", "Biodiversidad"],
+        "comentarios": [
+          {
+            "usuario": "PlantLover",
+            "comentario": "¡Qué descubrimiento tan maravilloso!",
+            "fecha": "2025-03-03"
+          }
+        ]
+      },
+      {
+        "titulo": "El deshielo en el Ártico alcanza niveles alarmantes",
+        "descripcion": "Nuevos estudios muestran que el ritmo del deshielo en el Ártico ha superado las predicciones más pesimistas.",
+        "categoria": "Medio Ambiente",
+        "fecha_publicacion": "2025-03-02",
+        "enlace": "https://www.natureworld.com/deshielo-artico",
+        "etiquetas": ["Cambio Climático", "Ártico", "Medio Ambiente"],
+        "comentarios": []
+      }
+    ]
+  }
+  
